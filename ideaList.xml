@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<idea>
+		<main>Tic-Tac-Toe</main>
+		<desc>The classic tic-tac-toe game using x's and o's. Could use graphics or be text based.</desc>
+		<bonus>Make a simple AI to play against.</bonus>
+		<img>https://i.gadgets360cdn.com/large/Google_Search_TicTacToe_Minigame_1472189767240.jpeg</img>
+	</idea>
+	
+	<idea>
+		<main>Percentage Calculator</main>
+		<desc>A simple percentage calculator that takes two numbers and outputs the percetage of the first to the second.</desc>
+		<bonus>Have it where users can input equations as numbers.</bonus>
+		<img>http://qpdownload.com/data/percentage-calculator/screenshot/percentage_calculator.png</img>
+	</idea>
+	
+	<idea>
+		<main>Basketball Scoreboard</main>
+		<desc>A basketball scoreboard that the use can update with score and more. Also counts down quarters and shotclock.</desc>
+		<bonus>Create different themes the user can select from.</bonus>
+		<img>http://a2.mzstatic.com/us/r30/Purple/v4/fe/d1/2e/fed12ebd-8ca6-9e2d-cd85-66a36ae8ed2e/screen568x568.jpeg</img>
+	</idea>
+	
+	<idea>
+		<main>Square Obstacle Course</main>
+		<desc>A game where the player controls a square through an obstacle course.</desc>
+		<bonus>Make a simple UI with several options such as color, difficulty, maybe even make multiple levels.</bonus>
+		<img>https://www.coolmath-games.com/sites/cmatgame/files/worlds-hardest-game_0.png</img>
+	</idea>
+	
+	<idea>
+		<main>Guess the Number</main>
+		<desc>The classic guess the number game. The computer chooses a rndom number and the player tries to guess it while getting higher/lower hints.</desc>
+		<bonus>Have the computer try to guess your number. As an extra bonus, create some graphics for the game.</bonus>
+		<img>http://www.ciese.org/ciesemath/numberguess1.jpg</img>
+	</idea>
+	
+	<idea>
+		<main>Text Game</main>
+		<desc>A simple and fun game using only text. The player can move around, pick up items, fight, go places, and more!</desc>
+		<bonus>Create a map using ASCII characters.</bonus>
+		<img>https://edge.alluremedia.com.au/m/k/2013/04/xlarge-1.png</img>
+	</idea>
+	
+	<idea>
+		<main>Area Calculator</main>
+		<desc>The user enters the width, height, shape or number of sides, and the computer finds the area for you!</desc>
+		<bonus>Add a diagram to fit with the users numbers that is to scale!</bonus>
+		<img>http://www.vactran.com/uploads/1/0/1/8/10181625/5718251_orig.png</img>
+	</idea>
+	
+	<idea>
+		<main>Snake</main>
+		<desc>The classic snake game! The user controls a "snake" that grows bigger while the user tries not to hit itself!</desc>
+		<bonus>Create advanced vector graphics that look great! As an extra bonus add local or online multiplayer.</bonus>
+		<img>http://www.coolmath-games.com/sites/cmatgame/files/snake.png</img>
+	</idea>
+	
+	<idea>
+		<main>Yahtzee</main>
+		<desc>The classic yahtzee game! Use text or buttons or anything you like!</desc>
+		<bonus>Make cool graphics to go with the game.</bonus>
+		<img>http://www.c-sharpcorner.com/article/yahtzee-program-using-C-Sharp/Images/yahtzee.gif</img>
+	</idea>
+	
+	<idea>
+		<main>Pong</main>
+		<desc>The classic pong game! Hit a ball back and forth with your opponent.</desc>
+		<bonus>Add power ups and/or multiplayer mode.</bonus>
+		<img>http://static.pong.com/pins/2013/05/g4tv-pong-flash-games-flash-games-break-most-addicting-flash_100857_D.jpg</img>
+	</idea>
+</list>
