@@ -1,0 +1,14 @@
+h1, h2, h3 {font-family: arial;}
+
+h1 {color: #e7717d;}
+h2 {color: #7e685a;}
+h3 {color: #afd275;}
+
+img {padding-left: 50px; padding-top: 20px;}
+
+button {
+	height: 50px; 
+	width: 300px;
+	font-family: arial;
+	font-size: 30px;
+}
